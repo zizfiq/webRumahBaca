@@ -1,10 +1,10 @@
-# Rumah Baca Sanggar Pendidikan Azkiya 📚
+# Rumah Baca Sanggar Pendidikan Azkiya
 
 Website ini dirancang untuk memberikan informasi mengenai **Rumah Baca Sanggar Pendidikan Azkiya**, sebuah inisiatif pendidikan untuk mendukung minat baca masyarakat. Website ini dibangun menggunakan framework **Bootstrap** untuk memastikan tampilan yang responsif dan modern.
 
-🌐 **Akses Website**: [Rumah Baca Sanggar Pendidikan Azkiya](https://zizfiq.github.io/webRumahBaca/)
+**Akses Website**: [Rumah Baca Sanggar Pendidikan Azkiya](https://zizfiq.github.io/webRumahBaca/)
 
-## 🎯 Fitur Utama
+## Fitur Utama
 
 1. **Beranda**  
    Halaman utama yang menyajikan informasi ringkas mengenai tujuan dan peran Rumah Baca Sanggar Pendidikan Azkiya.
@@ -21,14 +21,14 @@ Website ini dirancang untuk memberikan informasi mengenai **Rumah Baca Sanggar P
 4. **Galeri**  
    Kumpulan foto kegiatan dan pencapaian yang telah diraih Rumah Baca Sanggar Pendidikan Azkiya.
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - **HTML5**: Struktur konten halaman.
 - **CSS3**: Desain dan tata letak.
 - **Bootstrap**: Framework untuk tampilan responsif dan modern.
 - **JavaScript**: Interaktivitas halaman (opsional jika diperlukan).
 
-## 🌐 Instalasi dan Penggunaan
+## Instalasi dan Penggunaan
 
 1. **Clone Repository**:  
    Clone repository ini ke komputer Anda menggunakan perintah berikut:
@@ -39,7 +39,7 @@ Website ini dirancang untuk memberikan informasi mengenai **Rumah Baca Sanggar P
 3. **Akses Online**:  
    Anda dapat langsung mengakses website di [Rumah Baca Sanggar Pendidikan Azkiya](https://zizfiq.github.io/webRumahBaca/).
 
-## 🤝 Kontribusi
+## Kontribusi
 
 Kami sangat menyambut kontribusi Anda untuk meningkatkan website ini. Ikuti langkah-langkah berikut jika Anda ingin berkontribusi:
 
@@ -59,7 +59,7 @@ Kami sangat menyambut kontribusi Anda untuk meningkatkan website ini. Ikuti lang
 4. **Lakukan Perubahan**  
    Edit kode sesuai kebutuhan, perbaiki bug, atau tambahkan fitur baru.
 
-## 📄 Lisensi
+## Lisensi
 
 Proyek ini dilisensikan di bawah lisensi **MIT**. Anda bebas untuk menggunakan, menyalin, memodifikasi, dan mendistribusikan proyek ini dengan menyertakan salinan lisensi asli.
 
